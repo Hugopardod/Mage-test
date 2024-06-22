@@ -1,0 +1,2 @@
+# Mage-test
+mage test
